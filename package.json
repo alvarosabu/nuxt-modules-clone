@@ -9,7 +9,7 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^5.0.3",
     "axios": "^0.26.1",
-    "nuxt": "3.0.0-rc.1"
+    "nuxt": "3.0.0-rc.3"
   },
   "dependencies": {
     "@storyblok/vue": "^6.0.3",
